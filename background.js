@@ -1,0 +1,1 @@
+console.log("this console for background js")
